@@ -1,0 +1,2 @@
+rootProject.name = "MyConstraints"
+include ':app'
